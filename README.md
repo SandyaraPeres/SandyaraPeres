@@ -1,5 +1,5 @@
 
-<img src="https://github.com/SandyaraPeres/SandyaraPeres/blob/master/readmeGitHub.png" alt="Dark blue background banner, in the upper right corner, icon for social networks LinkedIn, Twitter and Instagram with the user next to @sandyaraperes. Below in Brazilian Portuguese: "Hi, I'm Sandyara Peres, Android software engineer.""/>
+<img src="https://github.com/SandyaraPeres/SandyaraPeres/blob/master/readmeGitHub.png" alt="Dark blue background banner, in the upper right corner, icon for social networks LinkedIn, Twitter and Instagram with the user next to @sandyaraperes. Below in Brazilian Portuguese: Hi, I'm Sandyara Peres, Android software engineer."/>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/SandyaraPeres)](https://github.com/SandyaraPeres)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandyara-peres-876313119/)](https://www.linkedin.com/in/sandyara-peres-876313119/)
